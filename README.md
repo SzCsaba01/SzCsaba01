@@ -1,4 +1,4 @@
-package SzikszaiCsaba
+package SzikszaiCsaba;
 
 class About extends Me{
 
@@ -21,5 +21,6 @@ class About extends Me{
     public String getFutureGoal(){
         return "To contribute to open source, learning new technologies";
     }
+}
     
     
