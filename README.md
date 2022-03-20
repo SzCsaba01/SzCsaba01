@@ -5,7 +5,7 @@ package SzikszaiCsaba;
 class About extends Me{
 
     public String getCurrentStudies(){
-        return "Computer Science Technical University of Cluj-Napoca";
+        return "2nd year Computer Science student at Technical University of Cluj-Napoca";
     }
     
     public ArrayList getInterests(){
@@ -21,7 +21,7 @@ class About extends Me{
     }
     
     public String getFutureGoal(){
-        return "To contribute to open source, learning new technologies";
+        return "To contribute to open source and learning new technologies";
     }
 }
     
