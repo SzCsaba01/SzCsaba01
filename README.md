@@ -9,7 +9,7 @@ class About extends Me{
     }
     
     public ArrayList getInterests(){
-        ArrayList interests = new ArrayList<String>();
+        ArrayList<String> interests = new ArrayList<String>();
         interests.add("Programming");
         interests.add("Meditation");
         interests.add("Reading");
