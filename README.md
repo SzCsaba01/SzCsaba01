@@ -13,8 +13,8 @@ class About extends Me{
         interests.add("Programming");
         interests.add("Meditation");
         interests.add("Reading");
-        interests.add("Self-improvement);
-        interests.add("Body building);
+        interests.add("Self-improvement");
+        interests.add("Body building");
         interests.add("Outdoor activities");
         
         return interests;
