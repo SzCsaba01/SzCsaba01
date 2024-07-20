@@ -20,7 +20,6 @@ I'm a recent graduate with a degree in Computer Science from the Technical Unive
 
 ## 📈 GitHub Stats
 
-![Csaba's GitHub stats](https://github-readme-stats.vercel.app/api?username=SzCsaba01&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SzCsaba01&layout=compact&theme=radical)
 
 ## 💼 Projects
@@ -46,7 +45,6 @@ I'm a recent graduate with a degree in Computer Science from the Technical Unive
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/szcsaba01/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:szikszaicsaba@yahoo.com)
 
 ## 📊 Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=SzCsaba01&color=brightgreen&style=flat)
