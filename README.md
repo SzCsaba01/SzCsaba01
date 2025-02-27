@@ -29,6 +29,10 @@ I'm a recent graduate with a degree in Computer Science from the Technical Unive
 
 ## 💼 Projects
 
+### [Project Management App](https://github.com/SzCsaba01/ProjectManagementApp)
+- **Technologies Used:** Node.js, Express.js, MongoDB, React, Redux, WebSockets, JWT, Redis
+- **Features:** Role-based access control (Admin, Manager, User), project and task management, real-time updates, sprint history, caching with Redis, API Gateway for microservices.
+
 ### [Job Finder](https://github.com/SzCsaba01/JobFinder-FrontEnd)
 - **Technologies Used:** Microservices, Docker, JWT, WebSockets, RabbitMQ, OpenAI
 - **Features:** User management, CV analyzer, job aggregations and recommendations.
@@ -41,13 +45,11 @@ I'm a recent graduate with a degree in Computer Science from the Technical Unive
 - **Technologies Used:** .NET, Angular, WebSockets
 - **Features:** User registration and login, messaging, file sharing, friend requests, group chat, admin user management
 
-
 ### [Electronic-Shop](https://github.com/SzCsaba01/Electronic-Shop)
 - **Technologies Used:** .NET 6, Angular, Entity Framework, SendGrid
 - **Features:** User registration and verification, admin product management, user favorites and cart, profile purchases display
 
-
-## 📫 Connect with Me
+## 👯‍ Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/szcsaba01/)
 
